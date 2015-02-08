@@ -45,7 +45,7 @@
         });
 
         app.listen(5001, function () {
-            console.log("See you at port locatlhost:5001");
+            console.log("See you at locatlhost:5001");
         });
 
     }).done();
